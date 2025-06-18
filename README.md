@@ -19,11 +19,6 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me:  
   ✉️ Email: `thanhdats22003@gmail.com`  
 
-- 😄 Pronouns: her
-
-- ⚡ Fun fact:  
-  I love designing beautiful user interfaces and I believe coding is like magic – turning imagination into reality ✨
-
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
