@@ -20,5 +20,3 @@ You can click the Preview link to take a look at your changes.
   ✉️ Email: `thanhdats22003@gmail.com`  
 
 ---
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
