@@ -53,10 +53,10 @@
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME
+- GitHub: [https://github.com/YOUR_GITHUB_USERNAME](https://github.com/NuongBee2003)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NuongBee2003&show_icons=true&theme=transparent" />
 </p>
