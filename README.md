@@ -1,6 +1,6 @@
 <h1 align="center">
-  <a href="[https://your-link-here.com](https://github.com/DenverCoder1/readme-typing-svg)" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dat+Nguyen+Thanh;Mobile+Developer;Android+%7C+Flutter+%7C+React+Native" />
+  <a href="[https://github.com/DenverCoder1/readme-typing-svg]" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dat+Nguyen+Thanh;Mobile+Developer;Android+%7C+Flutter+%7C+React+Native" />
   </a>
 </h1>
 
