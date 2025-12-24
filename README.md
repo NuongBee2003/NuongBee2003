@@ -43,7 +43,3 @@
 - Gmail : [thanhdats22003@gmail.com]
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NuongBee2003&show_icons=true&theme=transparent" />
-</p>
